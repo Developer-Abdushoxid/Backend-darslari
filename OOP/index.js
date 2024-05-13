@@ -62,8 +62,9 @@ Polimorfizm turli va ko'p shakllarga ega bo'lishni anglatadi. Biz ota-klassdan m
 Bu qiymatni oladigan va o'rnatadigan sinflarning oddiy usulidir
 
  Getter - qiymatlarni olish uchun ya'ni o'qish uchun foydaniladi
-
+  
  Setter - qiymatlarni o'zgartirish uchun foydaniladi
+
 ximoyalangan xususiyatlar
  Agar biz (_) bundan foydalansak bu ximoyalangan xususiyatdir biz bu xususiyatga tashqaridan ham 
  kira olamiz
@@ -74,5 +75,6 @@ Xususiy mulklar
  Xususiyatlar obyektlarning ma'lumotlarini ifodalaydi, usullar esa obyektlarning harakatlarini ifodalaydi.
 
 Xususiyatlar obyektning holatini saqlash uchun, o'zgaruvchilarni (variables) ifodalaydi,
-usullar esa obyektning amallarini bajarish uchun xizmat qiladi.
+
+Usullar esa obyektning amallarini bajarish uchun xizmat qiladi.
  */
